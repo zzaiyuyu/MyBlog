@@ -1,0 +1,4 @@
+django==1.10.8
+Markdown==2.6.9
+Pygments==2.2.0
+PyMySQL==0.7.11
