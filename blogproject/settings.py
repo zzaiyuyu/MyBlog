@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'el8$a(e%9no#57pl&9luxwp6=5d8i6wrotl(@w3@=_&gm#m=w%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+
 
 ALLOWED_HOSTS = ['127.0.0.1','localhost','.mineyuer.top']
 
@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'comments'
+    'comments',
+    'users'
 ]
 
 MIDDLEWARE = [
@@ -125,5 +126,21 @@ USE_TZ = False  #解决了归档问题
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
+DEBUG = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
+
+AUTH_USER_MODEL = 'users.User'
+#默认跳转页
+LOGOUT_REDIRECT_URL = '/'
+LOGIN_REDIRECT_URL = '/'
+
+#邮件设置
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_USE_TLS = True
+EMAIL_USE_SSL = False
+EMAIL_HOST = 'smtp.qq.com'
+EMAIL_PORT = 25
+EMAIL_HOST_USER = '1004636858@qq.com'
+EMAIL_HOST_PASSWORD = 'ejxirlmorikibebj'
+DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

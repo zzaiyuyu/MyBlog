@@ -1,0 +1,10 @@
+#-*- coding:utf-8 -*-
+'''Zheng 's BUG'''
+from django.conf.urls import url
+from . import views
+
+app_name = 'users'
+urlpatterns = [
+    url(r'^register/',views.register,name = 'register'),
+    url(r'^index/', views.index, name='index'),
+]

@@ -19,6 +19,9 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'',include('blog.urls')),
-    url(r'',include('comments.urls'))
-
+    url(r'',include('comments.urls')),
+    #users应用的url
+    url(r'^users/', include('users.urls')),
+    #包含登录的所有url
+    url(r'^users/', include('django.contrib.auth.urls')),
 ]
