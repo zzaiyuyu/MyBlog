@@ -2,106 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fa72172-d77a-4287-81af-f288cc6c6052" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/img/letter_bg_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/img/letter_bg_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/img/letter_bg_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/img/pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/check-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/notification-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/notification-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/notification-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/img/product-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-brands-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-brands-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-brands-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-brands-400.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-regular-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-regular-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-regular-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-regular-400.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-solid-900.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-solid-900.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-solid-900.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-solid-900.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/go_music.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/style3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/style4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/js/modernizr.custom.86080.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/music/js/particles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/css/fontawesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/external/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.structure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.structure.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/jquery-ui.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/jquery-ui-datepicker/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/js/jquery-3.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/js/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/js/tooplate-scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-brands-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-regular-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/show_music/webfonts/fa-solid-900.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/style3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/style4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/js/modernizr.custom.86080.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/blog/js/particles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/blog/go.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/blog/show.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tests.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/models.py" afterPath="$PROJECT_DIR$/blog/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/blog/css/custom.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templatetags/blog_tags.py" afterPath="$PROJECT_DIR$/blog/templatetags/blog_tags.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/urls.py" afterPath="$PROJECT_DIR$/blog/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogproject/urls.py" afterPath="$PROJECT_DIR$/blogproject/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comments/models.py" afterPath="$PROJECT_DIR$/comments/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/blog/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/blog/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/blog/base1.html" afterPath="$PROJECT_DIR$/templates/blog/base1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/blog/detail.html" afterPath="$PROJECT_DIR$/templates/blog/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/blog/index.html" afterPath="$PROJECT_DIR$/templates/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/users/index.html" afterPath="$PROJECT_DIR$/templates/users/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/users/register.html" afterPath="$PROJECT_DIR$/templates/users/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogproject/settings.py" afterPath="$PROJECT_DIR$/blogproject/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,21 +27,9 @@
       <file leaf-file-name="base1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/blog/base1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="116" column="99" lean-forward="true" selection-start-line="116" selection-start-column="99" selection-end-line="116" selection-end-column="99" />
+            <state relative-caret-position="2660">
+              <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -153,26 +44,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="go_music.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/go_music.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2656">
-              <caret line="93" column="27" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="93" selection-end-column="27" />
-              <folding>
-                <element signature="e#41#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="93" selection-end-column="81" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-940">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -198,18 +85,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="letter_bg_01.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="letter_bg_01.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/static/music/img/letter_bg_01.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <file leaf-file-name="go.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog/go.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+            <state relative-caret-position="384">
+              <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog/show.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -253,6 +150,7 @@
       <find>entyr</find>
       <find>entry</find>
       <find>widget</find>
+      <find>HOST</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -276,7 +174,6 @@
         <option value="$PROJECT_DIR$/templates/registration/password_reset_done.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_compelete.html" />
-        <option value="$PROJECT_DIR$/blogproject/settings.py" />
         <option value="$PROJECT_DIR$/comments/models.py" />
         <option value="$PROJECT_DIR$/blog/crawl_music.py" />
         <option value="$PROJECT_DIR$/blog/forms.py" />
@@ -303,6 +200,7 @@
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/templates/blog/base1.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/blogproject/settings.py" />
       </list>
     </option>
   </component>
@@ -312,7 +210,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="815" />
     <option name="y" value="63" />
     <option name="width" value="1542" />
@@ -356,54 +254,6 @@
             <path>
               <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="show_music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="show_music" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyBlog" type="b2602c69:ProjectViewProjectNode" />
@@ -588,9 +438,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19152361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19152361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -598,7 +449,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5148064" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.356492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32460135" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32460135" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -643,7 +494,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/static/blog/js/modernizr.custom.86080.js" />
     <entry file="file://$PROJECT_DIR$/blog/static/blog/js/pace.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -785,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blog/go.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/test_jieba.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -840,13 +683,6 @@
         <state relative-caret-position="3243">
           <caret line="210" column="7" lean-forward="true" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blog/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -903,14 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogproject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2816">
-          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -930,9 +758,9 @@
     <entry file="file://$PROJECT_DIR$/blog/go_music.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2656">
-          <caret line="93" column="27" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="93" selection-end-column="27" />
+          <caret line="93" column="27" lean-forward="false" selection-start-line="90" selection-start-column="9" selection-end-line="93" selection-end-column="27" />
           <folding>
-            <element signature="e#41#54#0" expanded="true" />
+            <element signature="e#41#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -940,15 +768,7 @@
     <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blog/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <caret line="8" column="82" lean-forward="false" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
           <folding />
         </state>
       </provider>
@@ -960,14 +780,6 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/blog/base1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="116" column="99" lean-forward="true" selection-start-line="116" selection-start-column="99" selection-end-line="116" selection-end-column="99" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,6 +811,54 @@
     <entry file="file://$PROJECT_DIR$/blog/static/music/img/letter_bg_01.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/go.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/base1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

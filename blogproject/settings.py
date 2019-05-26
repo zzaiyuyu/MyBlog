@@ -126,7 +126,7 @@ USE_TZ = False  #解决了归档问题
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-DEBUG = True
+DEBUG = False
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
 
