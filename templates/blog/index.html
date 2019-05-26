@@ -1,7 +1,6 @@
 {% extends 'blog/base1.html' %}
 
 {% block main %}
-    {% if user.is_authenticated %}
     {% for post in post_list %}
         <article class="post post-{{ post.pk }}">
             <header class="entry-header">
@@ -47,11 +46,6 @@
             {% endif %}
         </div>
     {% endif %}
-{% else %}
-    <p>你还没有登录,不能查看爬虫程序，请
-        <button class="btn btn-default"><a href="{% url 'login' %}?next={{ request.path }}">登录</a></button>
-        或者
-        <button class="btn btn-default"><a href="{% url 'users:register' %}?next={{ request.path }}">注册</a></button>
-    </p>
-{% endif %}
+
+
 {% endblock main %}

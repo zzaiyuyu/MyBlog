@@ -1,5 +1,6 @@
 {% extends 'blog/base1.html' %}
 {% block main %}
+    {% if user.is_authenticated %}
     <article class="post post-1--{{ post.pk }}">
         <header class="entry-header">
             <h1 class="entry-title">{{ post.title }}</h1>
@@ -16,7 +17,13 @@
             {{ post.body|safe}}
         </div>
     </article>
-
+    {% else %}
+        <p>&nbsp&nbsp&nbsp&nbsp&nbsp你还没有登录,不能查看爬虫程序，请
+        <button class="btn btn-default"><a href="{% url 'login' %}?next={{ request.path }}">登录</a></button>
+        或者
+        <button class="btn btn-default"><a href="{% url 'users:register' %}?next={{ request.path }}">注册</a></button>
+        </p>
+    {% endif %}
     <section class="comment-area" id="comment-area">
         <hr>
         <h3>发表评论</h3>
