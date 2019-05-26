@@ -224,6 +224,8 @@ img {
     margin-bottom: 20px;
     line-height: 1.6;
     padding: 10px 20px 0;
+    background: #79aec8;
+    color: #fff;
 }
 
 .entry-meta {
@@ -346,6 +348,8 @@ img {
     line-height: 1.6;
     padding: 10px 0 0;
     font-weight: 400;
+    /*background:#79aec8;*/
+    /*color: #fff;*/
 }
 
 .widget-recent-posts ul {

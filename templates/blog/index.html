@@ -1,11 +1,13 @@
 {% extends 'blog/base1.html' %}
 
 {% block main %}
+    {% if user.is_authenticated %}
     {% for post in post_list %}
         <article class="post post-{{ post.pk }}">
             <header class="entry-header">
                 <h1 class="entry-title">
-                    <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+                    {{ post.title }}
+{#                    <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>#}
                 </h1>
                 <div class="entry-meta">
                     <span class="post-category"><a href="#">{{ post.category.name }}</a></span>
@@ -45,4 +47,11 @@
             {% endif %}
         </div>
     {% endif %}
+{% else %}
+    <p>你还没有登录,不能查看爬虫程序，请
+        <button class="btn btn-default"><a href="{% url 'login' %}?next={{ request.path }}">登录</a></button>
+        或者
+        <button class="btn btn-default"><a href="{% url 'users:register' %}?next={{ request.path }}">注册</a></button>
+    </p>
+{% endif %}
 {% endblock main %}

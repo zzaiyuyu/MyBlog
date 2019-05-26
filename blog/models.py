@@ -8,12 +8,13 @@ class Category (models.Model):
     name = models.CharField(max_length= 100)
     def __str__(self):
         return self.name
+
 class Tag(models.Model):
     name = models.CharField(max_length= 100)
     def __str__(self):
         return self.name
-class Post(models.Model):
 
+class Post(models.Model):
     views = models.PositiveIntegerField(default=0)
     title = models.CharField(max_length=70)
     body = models.TextField()
@@ -38,6 +39,7 @@ class Post(models.Model):
         self.views +=1
         self.save(update_fields=['views'])
     def get_absolute_url(self):
+        # reverse 去寻找detail名字的url，根据正则反解URL
         return reverse('blog:detail',kwargs={'pk':self.pk})
     class Meta:
         ordering = ['-created_time']
