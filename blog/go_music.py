@@ -38,15 +38,12 @@ class Spider():
         encSecKey = music.get_encSEcKey(text)
         fromdata = {'params': params, 'encSecKey': encSecKey}
         jsons = requests.post(url, data=fromdata, headers=self.header)
-        # print(jsons.raise_for_status())
         # 打印返回来的内容，是个json格式的
         # print(jsons.text)
         return jsons.text
 
     def json2list(self, jsons):
         '''把json转成字典，并把他重要的信息获取出来存入列表'''
-        # 可以用json.loads()把他转成字典
-        # print(json.loads(jsons.text))
         users = json.loads(jsons)
         comments = []
         myComments = []
@@ -97,10 +94,7 @@ class Spider():
                 lock.acquire()
                 if comments:
                     self.cmtlist.append(comments)
-
                 if (comments and len(comments)) < 20 or self.page > self.maxPage - 1 or self.page > 100:
-                    # 保存为txt
-                    # self.derive2txt()
                     break
             finally:
                 lock.release()  #及其容易忘写，造成锁没释放，进程死锁
@@ -172,7 +166,6 @@ class Spider():
                         self.hit[i] = self.hit[i] + 1
                         break
         self.hit = self.hit[1:]
-
         # 分词
         topK = 7
         tags = jieba.analyse.extract_tags(self.contentSum, topK=topK, withWeight=True)
@@ -233,6 +226,19 @@ class WangYiYun():
         moudulus = self.third_param
         encSecKey = self.rsaEncrypt(pubKey, text, moudulus)
         return encSecKey
+
+# 得到歌曲id，爬去页数,生成txt目录
+def craw(mid, page, key):
+    print(mid, page, key)
+    spider = Spider(mid, page, key)
+    spider.run()
+    return spider.cmtlist, spider.topUser, spider.hit, spider.rowTag, spider.topWord
+
+if __name__ == '__main__':
+    mid = 1359595520
+    page = 4
+    key = "面"
+    craw(mid, page, key)
 
 # # 操作 mysql
 # class Operate_SQL():
@@ -319,17 +325,3 @@ class WangYiYun():
 #             if cursor:
 #                 cursor.close()
 #             self.__close_conn()
-
-# 得到歌曲id，爬去页数,生成txt目录
-def craw(mid, page, key):
-    print(mid, page, key)
-    spider = Spider(mid, page, key)
-    spider.run()
-    return spider.cmtlist, spider.topUser, spider.hit, spider.rowTag, spider.topWord
-
-if __name__ == '__main__':
-    mid = 1359595520
-    page = 4
-    key = "面"
-    craw(mid, page, key)
-

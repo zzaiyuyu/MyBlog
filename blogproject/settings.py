@@ -26,7 +26,7 @@ SECRET_KEY = 'el8$a(e%9no#57pl&9luxwp6=5d8i6wrotl(@w3@=_&gm#m=w%'
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.mineyuer.top']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','39.107.116.191']
 
 
 # Application definition
@@ -79,26 +79,26 @@ WSGI_APPLICATION = 'blogproject.wsgi.application'
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
 # windows 开发测试
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'blog',
-#         'USER': 'root',
-#         'PASSWORD': 'password',
-#         'HOST': '127.0.0.1',
-#         'PORT': '3306',
-#     }
-# }
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crawl_site',
+        'NAME': 'blog',
         'USER': 'root',
-        'PASSWORD': '6602521',
+        'PASSWORD': 'password',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'crawl_site',
+#         'USER': 'root',
+#         'PASSWORD': '6602521',
+#         'HOST': '127.0.0.1',
+#         'PORT': '3306',
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
@@ -136,7 +136,7 @@ USE_TZ = False  #解决了归档问题
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-DEBUG = False
+DEBUG = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
 
