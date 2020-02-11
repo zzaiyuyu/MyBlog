@@ -9,7 +9,7 @@ chardet==3.0.4
 constantly==15.1.0
 crypto==1.4.1
 cssselect==1.0.3
-django==1.10.8
+django==1.11.28
 django-request==1.5.4
 ExtensionClass==4.3.0
 httplib2==0.11.3
