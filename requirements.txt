@@ -12,7 +12,7 @@ cssselect==1.0.3
 django==1.10.8
 django-request==1.5.4
 ExtensionClass==4.3.0
-httplib2==0.11.3
+httplib2==0.19.0
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
